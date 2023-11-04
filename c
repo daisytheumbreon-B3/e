@@ -32,7 +32,7 @@
           {
             opcode: 'setVideoURL',
             blockType: Scratch.BlockType.COMMAND,
-            text: 'videoplayback.mp4',
+            text: 'https://github.com/daisytheumbreon-B3/e/blob/main/videoplayback.mp4',
             arguments: {
               URL: {
                 type: Scratch.ArgumentType.STRING,
